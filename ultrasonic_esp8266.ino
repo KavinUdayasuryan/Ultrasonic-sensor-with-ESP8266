@@ -8,8 +8,8 @@
 #define MAX_DISTANCE 300
 
 // Enter network credentials:
-const char* ssid     = "Kavin";
-const char* password = "qwertyui";
+const char* ssid     = "";
+const char* password = "";
 
 // Enter Google Script Deployment ID: CHANGE IF YOU CREATED NEW SPREADSHEET AND NEW DEPLOYMENT
 const char *GScriptId = "AKfycbwtPs0ayulB02P2t3gbKtn_cZ1cBzy_khCVCTH5oTy8ByvmMLMjh72JNVCsIF0EDLtF-A";
